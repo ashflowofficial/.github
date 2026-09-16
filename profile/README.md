@@ -7,7 +7,7 @@
 ### AI Business Systems — Helping service businesses get more customers & save time.
 
 [![Website](https://img.shields.io/badge/Website-ashflow.site-FF6A1A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashflow.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashflow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ashflow)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashflow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ashflowai)
 [![Instagram](https://img.shields.io/badge/Instagram-@ashflowai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashflowai/)
 [![Email](https://img.shields.io/badge/Email-hello@ashflow.site-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@ashflow.site)
 
@@ -86,7 +86,7 @@ Explore our public repositories to see the architecture, infrastructure, experim
 ## 🤝 Connect With Ashflow
 
 * 🌐 **Website:** [https://ashflow.site](https://ashflow.site/)
-* 💼 **LinkedIn:** [Ashflow](https://www.linkedin.com/company/ashflow)
+* 💼 **LinkedIn:** [Ashflow](https://www.linkedin.com/company/ashflowai)
 * 📸 **Instagram:** [@ashflowai](https://www.instagram.com/ashflowai/)
 * 📬 **Inquiries:** [hello@ashflow.site](mailto:hello@ashflow.site)
 
